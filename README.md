@@ -7,6 +7,7 @@ Studied in Chetan Public School Hubli
 and Studied in Base PU College
 PG in RV Institute Bangalore
 Reach me scrolling thoruh th eprojects I have created in the Section
+currently under projects on Python with AI
 
 <!---
 Thorxamp/Thorxamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
